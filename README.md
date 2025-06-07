@@ -65,18 +65,6 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 
 ---
 
-## 📌 Project Structure
-
-📦 reverse-logistics-data-project
-│
-├── 📁 data/ # Synthetic dataset (CSV or XLSX)
-├── 📁 notebooks/ # Python scripts and visual analysis
-├── 📁 dashboard/ # Power BI dashboard (.pbix file)
-├── README.md # Project overview and insights
-├── requirements.txt # Python dependencies
-└── LICENSE
----
-
 ## 🚀 Future Enhancements
 
 - Forecasting returns using machine learning
@@ -88,7 +76,7 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 
 ## 👤 Author
 
-**Pedro FOnseca**  
+**Pedro Fonseca**  
 [LinkedIn](https://www.linkedin.com/) • [Portfolio](https://) • [Email](mailto:your@email.com)
 
 ---
