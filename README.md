@@ -2,6 +2,8 @@
 
 > This project simulates a reverse logistics operation using synthetic data to explore operational efficiency and environmental impact. It features a full data pipeline, interactive visualizations, and strategic insights aligned with circular economy principles.
 
+<img width="2000" height="1171" alt="image" src="https://github.com/user-attachments/assets/d8afa8af-5a5b-4749-b27a-b71ead0dbcaa" />
+
 ---
 
 ## 🧭 Project Goal
