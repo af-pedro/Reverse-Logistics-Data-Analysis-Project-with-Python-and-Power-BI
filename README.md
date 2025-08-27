@@ -89,7 +89,7 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 #### Strategic Implications
 - Product Focus: Microwaves and dishwashers represent the highest revenue opportunities
 
-- Brand Relationships: LFK and LGK appear frequently, suggesting these brands either have higher failure rates or larger market share
+- Brand Relationships: Electrolux and LG appear frequently, suggesting these brands either have higher failure rates or larger market share
 
 - Disposition Efficiency: The 23% repair rate indicates potential for process optimization in refurbishment operations
 
