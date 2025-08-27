@@ -49,7 +49,7 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 
 | Step | Tools Used |
 |------|-------------|
-| Data cleaning & analysis | Python (Pandas, NumPy, Seaborn, Scikit-learn) |
+| Data cleaning & analysis | Python (Pandas, NumPy, Seaborn) |
 | Dashboard & reporting | Power BI |
 | Project documentation | GitHub + Markdown |
 
