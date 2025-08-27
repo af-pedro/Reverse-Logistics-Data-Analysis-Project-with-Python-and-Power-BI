@@ -57,11 +57,43 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 
 ## 📊 Key Insights
 
-- Total revenue and volume by product type
-- Return outcome distribution (repaired vs. destroyed)
-- Pareto curve: brands with highest cost concentration
-- Average delivery time by weekday
-- Operational patterns and inefficiencies by brand/product
+### 1. Weekly Disposition Patterns
+- Repaired Goods: 1,400 units (23% of total volume)
+- Jobber Items: 602 units (43% of total volume)
+- Destroyed Items: 470 units (34% of total volume)
+
+  #### The data shows consistent workflow throughout the week with relatively stable volumes across weekdays.
+
+### 2. Product Category Analysis
+##### The operation handles six main product categories:
+
+- Dishwashers
+- Dryers
+- Refrigerators
+- Microwaves
+- Televisions
+- Washing Machines
+
+### 3. Revenue by Product Type
+- Microwaves lead revenue generation at £9.5K
+- Dishwashers follow closely at £9.4K
+- TVs generate £9.2K
+- Dryers contribute £8.8K
+- Refrigerators and Washing Machines each generate £8.6K
+
+### 5. Operational Efficiency
+- Average delivery time: 3 days
+
+##### The Pareto analysis shows cost distribution across brands, with approximately 13% of brands contributing to the majority of costs
+
+#### Strategic Implications
+- Product Focus: Microwaves and dishwashers represent the highest revenue opportunities
+
+- Brand Relationships: LFK and LGK appear frequently, suggesting these brands either have higher failure rates or larger market share
+
+- Disposition Efficiency: The 23% repair rate indicates potential for process optimization in refurbishment operations
+
+- Cost Management: Pareto analysis reveals opportunities to focus cost reduction efforts on the 13% of brands driving most expenses
 
 ---
 
