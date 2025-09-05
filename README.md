@@ -64,8 +64,6 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 - Jobber Items: 602 units (43% of total volume)
 - Destroyed Items: 470 units (34% of total volume)
 
-  #### The data shows consistent workflow throughout the week with relatively stable volumes across weekdays.
-
 ### 2. Product Category Analysis
 ##### The operation handles six main product categories:
 
@@ -86,17 +84,33 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 ### 5. Operational Efficiency
 - Average delivery time: 3 days
 
-##### The Pareto analysis shows cost distribution across brands, with approximately 13% of brands contributing to the majority of costs
-
 #### Strategic Implications
+
+##### 1. 🔍 Identifying Bottlenecks and Optimization Opportunities 
+- The results presented highlight the need to evaluate current processes and identify inefficiencies that may be preventing optimal performance and resource utilization.
+
+- Certain days experience low performance, suggesting opportunities to redistribute campaigns or increase deliveries.
+
+- Average delivery time can be optimized with routing adjustments or logistics partnerships.
+
+##### 2. 💰 Assessing the Impact of Products and Brands on Costs
+  
 - Product Focus: Microwaves and dishwashers represent the highest revenue opportunities
 
 - Brand Relationships: Electrolux and LG appear frequently, suggesting these brands either have higher failure rates or larger market share
 
-- Disposition Efficiency: The 23% repair rate indicates potential for process optimization in refurbishment operations
-
 - Cost Management: Pareto analysis reveals opportunities to focus cost reduction efforts on the 13% of brands driving most expenses
 
+##### 3. 🌱 Supporting Sustainable Practices with Data Insights
+
+- Delivery time impacts and Destroyed products represents logistical emissions, material and energy waste   
+
+- Integrate this indicator into the company’s ESG reporting framework.
+
+- Optimize delivery routes and consolidation strategies to reduce carbon footprint.
+
+- Monitor and reduce product damage rates to minimize waste and improve efficiency.
+- 
 ---
 
 ## 🚀 Future Enhancements
@@ -105,13 +119,13 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 - Clustering high-cost product profiles
 - Geospatial mapping of returns
 - Automatic reports via Power BI Service
-- 
+  
 ---
 
 ## 👤 Author
 
 **Pedro Fonseca**  
-[LinkedIn](https://www.linkedin.com/) • [Portfolio](https://) • [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-fonseca-44b111249/) • [Email](pe.fonseca@outlook.com)
 
 ---
 
