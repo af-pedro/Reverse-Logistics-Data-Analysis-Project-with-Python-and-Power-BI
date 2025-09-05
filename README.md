@@ -84,16 +84,16 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 ### 5. Operational Efficiency
 - Average delivery time: 3 days
 
-#### Strategic Implications
+## Strategic Implications
 
-##### 1. 🔍 Identifying Bottlenecks and Optimization Opportunities 
+### 1. 🔍 Identifying Bottlenecks and Optimization Opportunities 
 - The results presented highlight the need to evaluate current processes and identify inefficiencies that may be preventing optimal performance and resource utilization.
 
 - Certain days experience low performance, suggesting opportunities to redistribute campaigns or increase deliveries.
 
 - Average delivery time can be optimized with routing adjustments or logistics partnerships.
 
-##### 2. 💰 Assessing the Impact of Products and Brands on Costs
+### 2. 💰 Assessing the Impact of Products and Brands on Costs
   
 - Product Focus: Microwaves and dishwashers represent the highest revenue opportunities
 
@@ -101,7 +101,7 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 
 - Cost Management: Pareto analysis reveals opportunities to focus cost reduction efforts on the 13% of brands driving most expenses
 
-##### 3. 🌱 Supporting Sustainable Practices with Data Insights
+### 3. 🌱 Supporting Sustainable Practices with Data Insights
 
 - Delivery time impacts and Destroyed products represents logistical emissions, material and energy waste   
 
@@ -110,7 +110,7 @@ The dataset used in this project is **synthetic**, created to replicate typical 
 - Optimize delivery routes and consolidation strategies to reduce carbon footprint.
 
 - Monitor and reduce product damage rates to minimize waste and improve efficiency.
-- 
+ 
 ---
 
 ## 🚀 Future Enhancements
